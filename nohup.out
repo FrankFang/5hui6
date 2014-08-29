@@ -1,0 +1,70 @@
+14 Aug 06:05:42 - [33m[nodemon] v1.2.1[39m
+14 Aug 06:05:42 - [33m[nodemon] to restart at any time, enter `rs`[39m
+14 Aug 06:05:42 - [33m[nodemon] watching: index.js[39m
+14 Aug 06:05:42 - [32m[nodemon] starting `node index.js`[39m
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1042:14)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1138:5)
+    at Function.app.listen (/home/frank/dev/5hui6.com/node_modules/express/lib/application.js:552:24)
+    at Object.<anonymous> (/home/frank/dev/5hui6.com/index.js:8:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+14 Aug 06:05:42 - [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+14 Aug 06:06:08 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:06:08 - [32m[nodemon] starting `node index.js`[39m
+14 Aug 06:06:08 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:06:08 - [32m[nodemon] starting `node index.js`[39m
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1042:14)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1138:5)
+    at Function.app.listen (/home/frank/dev/5hui6.com/node_modules/express/lib/application.js:552:24)
+    at Object.<anonymous> (/home/frank/dev/5hui6.com/index.js:8:18)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+14 Aug 06:06:09 - [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+14 Aug 06:07:00 - [33m[nodemon] v1.2.1[39m
+14 Aug 06:07:00 - [33m[nodemon] to restart at any time, enter `rs`[39m
+14 Aug 06:07:00 - [33m[nodemon] watching: index.js[39m
+14 Aug 06:07:00 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000
+14 Aug 06:07:16 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:07:16 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:07:16 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:07:16 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000
+14 Aug 06:09:27 - [33m[nodemon] v1.2.1[39m
+14 Aug 06:09:27 - [33m[nodemon] to restart at any time, enter `rs`[39m
+14 Aug 06:09:27 - [33m[nodemon] watching: index.js[39m
+14 Aug 06:09:27 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000
+14 Aug 06:09:46 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:09:46 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:09:46 - [32m[nodemon] restarting due to changes...[39m
+14 Aug 06:09:46 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000
+15 Aug 05:26:33 - [33m[nodemon] v1.2.1[39m
+15 Aug 05:26:33 - [33m[nodemon] to restart at any time, enter `rs`[39m
+15 Aug 05:26:33 - [33m[nodemon] watching: index.js[39m
+15 Aug 05:26:33 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000
+15 Aug 05:32:20 - [33m[nodemon] v1.2.1[39m
+15 Aug 05:32:20 - [33m[nodemon] to restart at any time, enter `rs`[39m
+15 Aug 05:32:20 - [33m[nodemon] watching: index.js[39m
+15 Aug 05:32:20 - [32m[nodemon] starting `node index.js`[39m
+Listening on port 3000

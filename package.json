@@ -1,0 +1,19 @@
+{
+  "name": "5hui6.com",
+  "version": "0.0.1",
+  "description": "5hui6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nohup nodemon index.js --watch index.js </dev/null &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:frankfang/5hui6.com.git"
+  },
+  "author": "frankfang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3"
+  }
+}
